@@ -1,1 +1,0 @@
-Project to convert the rankings on PFF so they can be uploaded as rankings on Underdog Fantasy
